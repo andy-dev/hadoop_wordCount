@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/andresmacedo/IdeaProjects/wordCountTest/src/wordCou
+ nt/WordCount.java
+Main-Class: wordCount.WordCount
+
